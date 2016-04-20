@@ -1,0 +1,1 @@
+gPodder is an excellent podcatcher, XBMC an excellent Media Centre.  This project provides an XBMC addon package that allows XBMC users to listen/watch their podcasts from within XBMC and still use their gPodder client in the normal way
